@@ -6,6 +6,7 @@ tags:
   - Mathematics
   - Fields Medal
 ---
+The Fields medals (or Noble prize for Maths) recepients for 2022 were announced yesterday. Four people were awarded this time. 
 
 ## Hugo Duminil-Copin
 For solving longstanding problems in probabilistic theory of phase transitions in statistical physics (especially in 3rd and 4th dimensions)
