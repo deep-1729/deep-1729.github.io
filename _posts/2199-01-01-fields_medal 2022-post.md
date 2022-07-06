@@ -18,4 +18,11 @@ For solving longstanding problems in probabilistic theory of phase transitions i
 -Development of the theory of Lorenzian polynomials. <br />
 -Proof of  strong Mason conjecture. <br />
 
+## James Maynard
+- For contribution to analytic number theory which led to advances in the understanding of the structure of prime numbers and in the Diphantine approximation.
+
+## Maryna Viazovska
+- For proving that the E8 lattice provides the densest packing of identical spheres in 8 dimensions. <br/>
+- For contributions to related extremal problems and interpolation problems in Fourier analysis.
+
 To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
