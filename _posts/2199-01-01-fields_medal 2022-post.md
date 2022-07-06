@@ -25,4 +25,4 @@ For solving longstanding problems in probabilistic theory of phase transitions i
 - For proving that the E8 lattice provides the densest packing of identical spheres in 8 dimensions. <br/>
 - For contributions to related extremal problems and interpolation problems in Fourier analysis.
 
-To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+<!--- To disable scheduling of future posts, edit `config.yml` and set `future: false`.   ---> 
