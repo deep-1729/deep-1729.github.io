@@ -1,6 +1,6 @@
 ---
 title: 'Graph Attention Networks'
-date: 2015-08-14
+date: 2022-07-19
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
