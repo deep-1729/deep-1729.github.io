@@ -6,6 +6,7 @@ tags:
   - Graph Neural Networks
   - Embeddings
 ---
+Paper link: [https://arxiv.org/abs/1710.10903](https://arxiv.org/abs/1710.10903)
 
 The paper performs node classification of graph data by computing the hidden representations of each node by attending over its neighbors, following a self-attention strategy. Self-attention is an attention mechanism applied to compute a representation of a single sequence.  
 <br>
