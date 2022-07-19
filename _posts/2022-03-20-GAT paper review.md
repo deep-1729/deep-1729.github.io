@@ -3,9 +3,8 @@ title: 'Graph Attention Networks'
 date: 2022-07-19
 permalink: /posts/gat/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Graph Neural Networks
+  - Embeddings
 ---
 
 The paper performs node classification of graph data by computing the hidden representations of each node by attending over its neighbors, following a self-attention strategy. Self-attention is an attention mechanism applied to compute a representation of a single sequence.  
