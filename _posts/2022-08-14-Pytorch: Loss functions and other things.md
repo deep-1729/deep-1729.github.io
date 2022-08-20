@@ -1,6 +1,6 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
+title: 'Softmax, Log softmax, NLL Loss, Cross Entropy Loss'
+date: 2022-08-20
 permalink: /posts/2013/08/blog-post-2/
 tags:
   - cool posts
