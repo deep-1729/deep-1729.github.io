@@ -1,7 +1,7 @@
 ---
 title: 'Softmax, Log softmax, NLL Loss, Cross Entropy Loss'
 date: 2022-08-20
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/Pytorch_loss/
 tags:
   - cool posts
   - category1
