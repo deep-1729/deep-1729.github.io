@@ -1,6 +1,6 @@
 ---
 title: 'How does face identification work? Siamese Networks'
-date: 2014-08-14
+date: 2022-08-14
 permalink: /posts/siamese/
 tags:
   - cool posts
