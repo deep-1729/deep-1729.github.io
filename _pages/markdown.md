@@ -32,7 +32,7 @@ redirect_from:
   * No icon: not built
 
 ## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+ * [To generate 2-d data by clicking](https://guoguibing.github.io/librec/datagen.html)
 
 ## Markdown guide
 
