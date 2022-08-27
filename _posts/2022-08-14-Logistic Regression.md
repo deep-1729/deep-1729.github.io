@@ -23,11 +23,11 @@ $$
 \end{equation}
 $$
 
-If we look at odds: $$p/(1-p) \in [0, \infty)$$
+If we look at odds: $$\frac{p}{1-p} \in [0, \infty)$$
 
 $$
 \begin{equation}
-    log (odds) = log(p/1-p) \in (-\infty, \infty)
+    log (odds) = log(\frac{p}{1-p}) \in (-\infty, \infty)
 \end{equation}
 $$
 
@@ -35,14 +35,14 @@ hence if
 
 $$
 \begin{equation}
-    w^T x  = log(p/1-p)
+    w^T x  = log(\frac{p}{1-p})
     
 \end{equation}
 $$
 
 $$
 \begin{equation}
-    p/(1-p) = e^{(w^T x)}
+    \frac{p}{1-p} = e^{(w^T x)}
 \end{equation}
 $$
 
