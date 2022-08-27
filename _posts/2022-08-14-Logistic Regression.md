@@ -13,6 +13,10 @@ For classification why do we use the sigmoid function and not just $$w^T x$$
 ## Headings are cool
 For classification why do we use the sigmoid function and not just $$w^T x$$ 
 
+### Graphs 
+
+A graph is a data structure consists of nodes/vertices $$V$$ and edges $$E$$. These nodes represent entities or objects and the edges between them denote some relationship. These relationships are either unidirectional or bidirection. Let's assume we're working with undirected graphs for the rest of this post. 
+
 
 You can have many headings
 ======
