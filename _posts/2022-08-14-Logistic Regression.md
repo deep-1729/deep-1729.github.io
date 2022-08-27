@@ -9,6 +9,7 @@ tags:
 ---
 
 For classification why do we use the sigmoid function and not just $$w^T x$$ ? 
+
 In classification problem what we are trying to predict is the probability of a data point belonging to a particular class. Now $$w^T x \in (-\infty, \infty)$$, but we want to model probabilities which have range:
 
 $$
