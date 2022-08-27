@@ -24,6 +24,30 @@ $$
 $$
 
 If we look at odds: $$p/(1-p) \in [0, \infty)$$
+
+$$
+\begin{equation}
+    log (odds) = log(p/1-p) \in (-infty, \infty)
+\end{equation}
+$$
+
+hence if 
+
+$$
+\begin{equation}
+    w^T x  = log(p/1-p)
+    
+\end{equation}
+$$
+
+$$
+\begin{equation}
+    p/(1-p) = e^{(w^T x)}
+\end{equation}
+$$
+
+
+
 ## Headings are cool
 For classification why do we use the sigmoid function and not just $$w^T x$$ 
 
