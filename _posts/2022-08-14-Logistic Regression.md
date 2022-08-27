@@ -66,3 +66,5 @@ $$
     \implies p = \frac{e^{(w^T x)}}{1+e^{(w^T x)}}
 \end{equation}
 $$
+
+Hence $$w^T x$$ models log (odds) and to model the probabilities directly we use the sigmoid function.
