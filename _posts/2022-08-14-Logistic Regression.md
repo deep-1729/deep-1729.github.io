@@ -23,7 +23,15 @@ $$
 \end{equation}
 $$
 
-If we look at odds: $$\frac{p}{1-p} \in [0, \infty)$$
+If we look at odds:
+
+$$
+\begin{equation}
+    \frac{p}{1-p} \in [0, \infty)
+\end{equation}
+$$
+
+
 
 $$
 \begin{equation}
