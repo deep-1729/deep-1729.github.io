@@ -9,7 +9,7 @@ tags:
 ---
 
 For classification why do we use the sigmoid function and not just $$w^T x$$ ? 
-In classification problem what we are trying to predict is the probability of a data point belonging to a particular class. Now $$w^T x \in (-\infty, \infty)$$, but we want to model probabilities which have range: $$ p(y=1|x,w) \in [0,1]$$
+In classification problem what we are trying to predict is the probability of a data point belonging to a particular class. Now $$w^T x \in (-\infty, \infty)$$, but we want to model probabilities which have range:
 
 $$
 \begin{equation}
@@ -27,7 +27,7 @@ If we look at odds: $$p/(1-p) \in [0, \infty)$$
 
 $$
 \begin{equation}
-    log (odds) = log(p/1-p) \in (-infty, \infty)
+    log (odds) = log(p/1-p) \in (-\infty, \infty)
 \end{equation}
 $$
 
@@ -45,6 +45,20 @@ $$
     p/(1-p) = e^{(w^T x)}
 \end{equation}
 $$
+
+$$
+\begin{equation}
+    p = e^{(w^T x)} - p e^{(w^T x)}
+\end{equation}
+$$
+
+$$
+\begin{equation}
+    \implies p = \frac{e^{(w^T x)}}{1+e^{(w^T x)}}
+\end{equation}
+$$
+
+
 
 
 
