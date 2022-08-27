@@ -68,3 +68,22 @@ $$
 $$
 
 Hence $$w^T x$$ models log (odds) and to model the probabilities directly we use the sigmoid function.
+
+
+## Why do we use log loss for logistic regression?
+
+Log loss:
+
+$$
+\begin{equation}
+    loss =  -\sum_{i=1}^{n} p_i log(p_i)
+\end{equation}
+$$
+
+For binary classification it becomes:
+
+$$
+\begin{equation}
+    loss =  -p log(p) - (1-p) log(1-p)
+\end{equation}
+$$
