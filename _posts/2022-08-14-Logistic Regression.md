@@ -76,7 +76,7 @@ Log loss:
 
 $$
 \begin{equation}
-    loss =  -\sum_{i=1}^{n} p_i log(p_i)
+    loss =  -\sum_{i=1}^{n} y_i log(p(y_i))
 \end{equation}
 $$
 
@@ -84,6 +84,22 @@ For binary classification it becomes:
 
 $$
 \begin{equation}
-    loss =  -p log(p) - (1-p) log(1-p)
+    loss =  -y log(p) - (1-y) log(1-p)
 \end{equation}
 $$
+
+Probability density function of a bernoulli random variable:
+
+$$
+\begin{equation}
+    pdf = p^y (1-p)^{(1-y)}
+\end{equation}
+$$
+
+log likelihood:
+$$
+\begin{equation}
+    l = ylog p + (1-y)log (1-p)
+\end{equation}
+$$
+
