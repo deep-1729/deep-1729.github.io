@@ -1,6 +1,6 @@
 ---
 title: 'Why do we use sigmoid for Logistic Regression?'
-date: 2022-08-20
+date: 2022-08-27
 permalink: /posts/sigmoid/
 tags:
   - cool posts
