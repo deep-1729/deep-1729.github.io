@@ -103,3 +103,4 @@ $$
 \end{equation}
 $$
 
+Therefore, by using log loss we are trying to find the maximum likelihood estimation of the parameters w.
