@@ -9,7 +9,7 @@ redirect_from:
 
 ## Statistics: Rule of three
 
-* Basic config options: _config.yml
+* If you haven’t seen something happen in N observations, a good estimate is that the chances of it happening are less than 3/N. [Article for explanation](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/) 
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
