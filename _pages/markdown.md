@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Statistics: Rule of three
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
