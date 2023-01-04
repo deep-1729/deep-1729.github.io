@@ -11,6 +11,10 @@ redirect_from:
 
 * If you haven’t seen something happen in N observations, a good estimate is that the chances of it happening are less than 3/N. [Article for explanation](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/) 
 [comment]: <> (This is a comment, it will not be included)
+
+<!---
+
+
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
@@ -201,3 +205,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+-->
